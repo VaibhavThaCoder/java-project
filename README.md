@@ -1,1 +1,1 @@
-for jenkins deployment purpose
+java-project for jenkins deployment
